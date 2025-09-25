@@ -179,4 +179,10 @@ span {
    margin: 5px;
    padding: 11px;
    border-radius: 5px; 
+   
+}
+
+#btn img {
+    padding: 0 10px;
+    vertical-align: middle;
 }
